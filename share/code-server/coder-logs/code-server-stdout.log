@@ -1,0 +1,66 @@
+[2023-02-04T08:39:53.134Z] info  code-server 4.7.0 7f108c61ab670ccaae4cfde5de2909c003db1ce8
+[2023-02-04T08:39:53.135Z] info  Using user-data-dir ~/data
+[2023-02-04T08:39:53.152Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-02-04T08:39:53.152Z] info  HTTP server listening on http://0.0.0.0/ 
+[2023-02-04T08:39:53.152Z] info    - Authentication is enabled
+[2023-02-04T08:39:53.152Z] info      - Using password from $PASSWORD
+[2023-02-04T08:39:53.153Z] info    - Not serving HTTPS 
+[14:10:07] Extension host agent started.
+[14:10:09] [172.18.0.2][03f1de31][ManagementConnection] New connection established.
+[14:10:11] [172.18.0.2][611f5860][ExtensionHostConnection] New connection established.
+[14:10:11] [172.18.0.2][611f5860][ExtensionHostConnection] <216> Launched Extension Host Process.
+[14:10:18] Getting Manifest... xabikos.javascriptsnippets
+[14:10:18] Getting Manifest... ms-vscode.vscode-typescript-next
+[14:10:18] Getting Manifest... dbaeumer.vscode-eslint
+[14:10:18] Getting Manifest... formulahendry.code-runner
+[14:10:18] Getting Manifest... esbenp.prettier-vscode
+[14:10:20] Installing extension: dbaeumer.vscode-eslint
+[14:10:20] Installing extension: xabikos.javascriptsnippets
+[14:10:20] Installing extension: esbenp.prettier-vscode
+[14:10:20] Installing extension: formulahendry.code-runner
+[14:10:20] Installing extension: ms-vscode.vscode-typescript-next
+[14:10:22] Downloaded extension: xabikos.javascriptsnippets /config/data/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0-universal
+[14:10:22] Extracted extension to /config/extensions/.86d88804-75ed-43ad-9879-bec4b45c1bad: xabikos.javascriptsnippets
+[14:10:22] Renamed to /config/extensions/xabikos.javascriptsnippets-1.8.0-universal
+[14:10:22] Extracting completed. xabikos.javascriptsnippets
+[14:10:22] Extension installed successfully: xabikos.javascriptsnippets
+[14:10:23] Downloaded extension: dbaeumer.vscode-eslint /config/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6-universal
+[14:10:23] Extracted extension to /config/extensions/.45454aee-7604-47d8-b96c-3e95b052f716: dbaeumer.vscode-eslint
+[14:10:23] Renamed to /config/extensions/dbaeumer.vscode-eslint-2.2.6-universal
+[14:10:23] Extracting completed. dbaeumer.vscode-eslint
+[14:10:23] Extension installed successfully: dbaeumer.vscode-eslint
+[14:10:24] Downloaded extension: formulahendry.code-runner /config/data/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0-universal
+[14:10:24] Extracted extension to /config/extensions/.ca52af47-1663-42ea-a0b1-ac27e09bab0d: formulahendry.code-runner
+[14:10:24] Renamed to /config/extensions/formulahendry.code-runner-0.12.0-universal
+[14:10:24] Extracting completed. formulahendry.code-runner
+[14:10:24] Extension installed successfully: formulahendry.code-runner
+[14:10:24] Downloaded extension: esbenp.prettier-vscode /config/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.10.4-universal
+[14:10:24] Extracted extension to /config/extensions/.5f322984-df76-4e9b-aea4-24bb98155a5b: esbenp.prettier-vscode
+[14:10:24] Renamed to /config/extensions/esbenp.prettier-vscode-9.10.4-universal
+[14:10:24] Extracting completed. esbenp.prettier-vscode
+[14:10:24] Extension installed successfully: esbenp.prettier-vscode
+[14:10:25] Downloaded extension: ms-vscode.vscode-typescript-next /config/data/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-5.0.20221101-universal
+[14:10:26] Extracted extension to /config/extensions/.51cdda40-e9ea-4484-b5fb-cd0cff3bd001: ms-vscode.vscode-typescript-next
+[14:10:26] Renamed to /config/extensions/ms-vscode.vscode-typescript-next-5.0.20221101-universal
+[14:10:26] Extracting completed. ms-vscode.vscode-typescript-next
+[14:10:26] Extension installed successfully: ms-vscode.vscode-typescript-next
+[14:10:31] Getting Manifest... xabikos.javascriptsnippets
+[14:10:32] Getting Manifest... dbaeumer.vscode-eslint
+[14:10:32] Getting Manifest... esbenp.prettier-vscode
+[14:10:32] Getting Manifest... formulahendry.code-runner
+[14:10:32] Getting Manifest... ms-vscode.vscode-typescript-next
+[14:10:33] Installing extension: xabikos.javascriptsnippets
+[14:10:33] Installing extension: dbaeumer.vscode-eslint
+[14:10:33] Installing extension: esbenp.prettier-vscode
+[14:10:33] Installing extension: formulahendry.code-runner
+[14:10:33] Extension installed successfully: xabikos.javascriptsnippets
+[14:10:33] Installing extension: ms-vscode.vscode-typescript-next
+[14:10:34] Extension installed successfully: dbaeumer.vscode-eslint
+[14:10:34] Extension installed successfully: esbenp.prettier-vscode
+[14:10:34] Extension installed successfully: formulahendry.code-runner
+[14:10:34] Extension installed successfully: ms-vscode.vscode-typescript-next
+[14:12:27] [172.18.0.2][03f1de31][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:12:27] [172.18.0.2][611f5860][ExtensionHostConnection] <216> Extension Host Process exited with code: 0, signal: null.
+[14:12:29] [172.18.0.2][b0b2853e][ManagementConnection] New connection established.
+[14:12:30] [172.18.0.2][107bbc0d][ExtensionHostConnection] New connection established.
+[14:12:31] [172.18.0.2][107bbc0d][ExtensionHostConnection] <384> Launched Extension Host Process.
